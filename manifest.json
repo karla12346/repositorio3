@@ -1,0 +1,17 @@
+{
+    "short_name":"Multiplicacion",
+    "name":"Creando Una pagina",
+    "icons":[
+        {
+            "src":"1.jpg",
+            "sizes":"192x192",
+            "type":"image/jpg"
+        }
+    ],
+    "start_url":"index.html",
+    "background_color":"#f9d627",
+    "display":"standalone",
+    "scope":"/",
+    "them_color":"#f9d627",
+    "description":"Whater forecast information "
+}
